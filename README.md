@@ -5,7 +5,7 @@
    + Computer technician focused on development – ULBRA (2010) 
    
          Programming logic
-         object Oriented Programming
+         Object oriented programming
          Web development
          Data structure
    + Higher education in systems analysis and development – UNINTER (2020)
@@ -13,8 +13,8 @@
          Software Architecture
          Data structure
          UML architecture
-         Requirements Analysis and Project Management
-         BackEnd and FrontEnd development
+         Requirements analysis and project Management
+         Back-End and Front-End development
    + Scrum Master LV 1 – scrum.org (Ongoing)
 
 ***
