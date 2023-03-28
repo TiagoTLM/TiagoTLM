@@ -25,8 +25,6 @@
 
 **🌱 I am currently improving my dev skills in HTML, PHP, CSS, Python and some frameworks like React, Laravel and Bootstrap;**
 
-***
-
 **📫 How to reach me:**
     <div>
     <a href="https://instagram.com/tiagotlm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,7 +32,7 @@
      <a href="https://www.linkedin.com/in/tiagotlm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      </div>
 
-
+***
        
 
 
