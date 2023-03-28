@@ -2,7 +2,7 @@
 
 **📘 Accademics and other certificades 📘**
    
-   + Computer technician focused on development – ULBRA (2010) 
+   + Computing technician focused on development – ULBRA (2010) 
    
          Programming logic
          Object oriented programming
