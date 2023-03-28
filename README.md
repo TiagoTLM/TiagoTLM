@@ -8,7 +8,7 @@
          Object oriented programming
          Web development
          Data structure
-   + Higher education in systems analysis and development – UNINTER (2020)
+   + Higher graduation in systems analysis and development – UNINTER (2020)
    
          Software Architecture
          Data structure
