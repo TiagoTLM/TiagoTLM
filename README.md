@@ -1,25 +1,29 @@
-# Hey there, i am Tiago Moraes 👋
+# Olá, meu nome é Tiago Moraes 👋
 
-**📘 Accademics and other certificades 📘**
+**📘 Formações academicas e outros certificados 📘**
    
-   + Computing technician focused on development – ULBRA (2010) 
+   + Graduação nível superior em análise e desenvolvimento de sistemas – UNINTER (2020) 
    
-         Programming logic
-         Object oriented programming
-         Web development
-         Data structure
-   + Higher graduation in systems analysis and development – UNINTER (2020)
+         Arquitetura de software
+         Estrutura de dados
+         Arquitetura UML
+         Análise de requisitos e gerenciamento de projetos
+         Desenvolvimento Back-end e Front-end     
+
+   + Técnico em informática com foco em desenvolvimento – ULBRA (2010)
+
    
-         Software Architecture
-         Data structure
-         UML architecture
-         Requirements analysis and project Management
-         Back-End and Front-End development
-   + Scrum Master LV 1 – scrum.org (Ongoing)
+         Lógica de programação
+         Programação orientada à objetos
+         Desenvolvimento web
+         Estrutura de dados
+         Raciocínio lógico matemático
+         
+   + Scrum Master nível 1 – scrum.org (em andamento)
 
 ***
 
-**📫 How to reach me 📫**
+**📫 Entre em contato comigo 📫**
     <div>
     <a href="https://instagram.com/tiagotlm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href = "mailto:tiagotlm@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
