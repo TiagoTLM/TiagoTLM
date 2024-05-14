@@ -19,8 +19,6 @@
          Estrutura de dados
          Raciocínio lógico matemático
          
-   + Scrum Master nível 1 – scrum.org (em andamento)
-
 ***
 
 **📫 Entre em contato comigo 📫**
