@@ -7,7 +7,6 @@
          Arquitetura de software
          Estrutura de dados
          Arquitetura UML
-         Análise de requisitos e gerenciamento de projetos
          Desenvolvimento Back-end e Front-end     
          Lógica de programação
          Programação orientada à objetos
