@@ -1,24 +1,24 @@
-# Olá, meu nome é Tiago Moraes 👋
+# Hello, my name is Tiago Moraes 👋
 
-**📘 Formações Acadêmicas 📘**
+**📘 Academic Background 📘**
    
-+ Graduação nível superior em Análise e Desenvolvimento de Sistemas – UNINTER (2020) 
++ Bachelor's degree in Systems Analysis and Development – UNINTER (2020) 
 
-**💻 Principais Habilidades 💻**  
-- Arquitetura de Software e Padrões de Projeto  
-- Estrutura de Dados e Algoritmos  
-- Desenvolvimento Back-end e Front-end  
-- Programação Orientada a Objetos (POO)  
-- Desenvolvimento Web Responsivo (HTML, CSS, JavaScript)  
-- Programação em PHP (puro e frameworks: CodeIgniter 3, Laravel)  
-- Programação em Python e Java  
-- Banco de Dados SQL Server (triggers, stored procedures, views)  
-- Design e Consumo de APIs RESTful  
-- Automação de Processos e Web Scraping  
+**💻 Key Skills 💻**  
+- Software Architecture and Design Patterns  
+- Data Structures and Algorithms  
+- Back-end and Front-end Development  
+- Object-Oriented Programming (OOP)  
+- Responsive Web Development (HTML, CSS, JavaScript)  
+- PHP Programming (core and frameworks: CodeIgniter 3, Laravel)  
+- Python and Java Programming  
+- SQL Server Database (triggers, stored procedures, views)  
+- Design and Consumption of RESTful APIs  
+- Process Automation and Web Scraping  
 
 ***
 
-**📫 Entre em contato comigo 📫**
+**📫 Contact Me 📫**
 <div>
 <a href="mailto:tiagotlm@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tiagotlm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
